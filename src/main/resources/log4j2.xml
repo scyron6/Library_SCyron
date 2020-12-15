@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="warn" monitorInterval="30">
+
+	<Appenders>
+		<Console name="StdOut" target="SYSTEM_OUT">
+			<!-- Each appender should have a layout associated with it. This determines 
+				the output pattern of the messages. -->
+			<PatternLayout pattern="%msg%n" />
+		</Console>
+
+		<RollingFile name="books" filename="bookRecords.log" 
+			filePattern="logs/$${date:MM-dd-yyyy}/BookLog-%d{MM-dd-yyyy}-%i.log.gz">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+			<Policies>
+				<OnStartupTriggeringPolicy/>
+			</Policies>
+			<DefaultRolloverStrategy max="1"/>
+		</RollingFile>
+	</Appenders>
+	
+	<Loggers>
+		<Root level="error">
+			<AppenderRef ref="StdOut"/>
+		</Root>
+		
+		<Logger name="BookRecords" level="info" additivity="false">
+			<AppenderRef ref="books"/>
+		</Logger>
+	</Loggers>
+
+	
+</Configuration>

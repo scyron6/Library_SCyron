@@ -1,0 +1,68 @@
+15:49:04.522 [Thread-2] INFO  BookRecords - Patron3 borrowed The Hunger Games from the library on day 0
+15:49:04.522 [Thread-0] INFO  BookRecords - Patron1 borrowed Harry Potter from the library on day 0
+15:49:04.522 [Thread-3] INFO  BookRecords - Patron4 borrowed Name of the Wind from the library on day 0
+15:49:04.522 [Thread-1] INFO  BookRecords - Patron2 borrowed Game of Thrones from the library on day 0
+15:49:04.522 [Thread-4] INFO  BookRecords - Patron5 borrowed Sherlock Holmes from the library on day 0
+15:49:04.579 [Thread-23] INFO  BookRecords - Patron4 returned Name of the Wind to the library on day 4
+15:49:04.579 [Thread-23] INFO  BookRecords - Patron4 couldn't find a book from his wish list[Sherlock Holmes, The Hunger Games, Game of Thrones, Harry Potter]
+15:49:04.592 [Thread-27] INFO  BookRecords - Patron3 returned The Hunger Games to the library on day 5
+15:49:04.602 [Thread-27] INFO  BookRecords - Patron3 borrowed Name of the Wind from the library on day 5
+15:49:04.615 [Thread-30] INFO  BookRecords - Patron1 returned Harry Potter to the library on day 6
+15:49:04.615 [Thread-30] INFO  BookRecords - Patron1 borrowed The Hunger Games from the library on day 6
+15:49:04.629 [Thread-37] INFO  BookRecords - Patron3 borrowed Harry Potter from the library on day 7
+15:49:04.629 [Thread-36] INFO  BookRecords - Patron2 couldn't find a book from his wish list[The Hunger Games, Sherlock Holmes, Harry Potter, Name of the Wind]
+15:49:04.629 [Thread-39] INFO  BookRecords - Patron5 couldn't find a book from his wish list[Game of Thrones, The Hunger Games, Harry Potter, Name of the Wind]
+15:49:04.629 [Thread-35] INFO  BookRecords - Patron1 couldn't find a book from his wish list[Name of the Wind, Sherlock Holmes, Game of Thrones]
+15:49:04.630 [Thread-38] INFO  BookRecords - Patron4 couldn't find a book from his wish list[Sherlock Holmes, The Hunger Games, Game of Thrones, Harry Potter]
+15:49:04.630 [Thread-39] INFO  BookRecords - Patron5 returned Sherlock Holmes to the library on day 7
+15:49:04.630 [Thread-39] INFO  BookRecords - Patron5 couldn't find a book from his wish list[Game of Thrones, The Hunger Games, Harry Potter, Name of the Wind]
+15:49:04.667 [Thread-52] INFO  BookRecords - Patron3 returned Name of the Wind to the library on day 10
+15:49:04.667 [Thread-51] INFO  BookRecords - Patron2 returned Game of Thrones to the library on day 10
+15:49:04.668 [Thread-52] INFO  BookRecords - Patron3 borrowed Sherlock Holmes from the library on day 10
+15:49:04.668 [Thread-51] INFO  BookRecords - Patron2 borrowed Name of the Wind from the library on day 10
+15:49:04.668 [Thread-52] INFO  BookRecords - Patron3 returned Harry Potter to the library on day 10
+15:49:04.668 [Thread-52] INFO  BookRecords - Patron3 borrowed Game of Thrones from the library on day 10
+15:49:04.680 [Thread-57] INFO  BookRecords - Patron3 returned Game of Thrones to the library on day 11
+15:49:04.681 [Thread-57] INFO  BookRecords - Patron3 couldn't find a book from his wish list[]
+15:49:04.681 [Thread-55] INFO  BookRecords - Patron1 returned The Hunger Games to the library on day 11
+15:49:04.681 [Thread-55] INFO  BookRecords - Patron1 borrowed Game of Thrones from the library on day 11
+15:49:04.694 [Thread-62] INFO  BookRecords - Patron3 returned Sherlock Holmes to the library on day 12
+15:49:04.720 [Thread-71] INFO  BookRecords - Patron2 borrowed The Hunger Games from the library on day 14
+15:49:04.720 [Thread-74] INFO  BookRecords - Patron5 borrowed Harry Potter from the library on day 14
+15:49:04.720 [Thread-70] INFO  BookRecords - Patron1 borrowed Sherlock Holmes from the library on day 14
+15:49:04.721 [Thread-71] INFO  BookRecords - Patron2 returned Name of the Wind to the library on day 14
+15:49:04.721 [Thread-71] INFO  BookRecords - Patron2 couldn't find a book from his wish list[Sherlock Holmes, Harry Potter]
+15:49:04.721 [Thread-73] INFO  BookRecords - Patron4 couldn't find a book from his wish list[Sherlock Holmes, The Hunger Games, Game of Thrones, Harry Potter]
+15:49:04.735 [Thread-75] INFO  BookRecords - Patron1 returned Game of Thrones to the library on day 15
+15:49:04.735 [Thread-79] INFO  BookRecords - Patron5 returned Harry Potter to the library on day 15
+15:49:04.736 [Thread-75] INFO  BookRecords - Patron1 borrowed Name of the Wind from the library on day 15
+15:49:04.736 [Thread-79] INFO  BookRecords - Patron5 borrowed Game of Thrones from the library on day 15
+15:49:04.749 [Thread-80] INFO  BookRecords - Patron1 returned Sherlock Holmes to the library on day 16
+15:49:04.749 [Thread-80] INFO  BookRecords - Patron1 couldn't find a book from his wish list[]
+15:49:04.775 [Thread-91] INFO  BookRecords - Patron2 returned The Hunger Games to the library on day 18
+15:49:04.775 [Thread-91] INFO  BookRecords - Patron2 borrowed Sherlock Holmes from the library on day 18
+15:49:04.815 [Thread-106] INFO  BookRecords - Patron2 borrowed Harry Potter from the library on day 21
+15:49:04.815 [Thread-108] INFO  BookRecords - Patron4 couldn't find a book from his wish list[Sherlock Holmes, The Hunger Games, Game of Thrones, Harry Potter]
+15:49:04.815 [Thread-109] INFO  BookRecords - Patron5 borrowed The Hunger Games from the library on day 21
+15:49:04.816 [Thread-105] INFO  BookRecords - Patron1 couldn't find a book from his wish list[]
+15:49:04.829 [Thread-114] INFO  BookRecords - Patron5 returned Game of Thrones to the library on day 22
+15:49:04.829 [Thread-111] INFO  BookRecords - Patron2 returned Sherlock Holmes to the library on day 22
+15:49:04.830 [Thread-114] INFO  BookRecords - Patron5 couldn't find a book from his wish list[Name of the Wind]
+15:49:04.830 [Thread-111] INFO  BookRecords - Patron2 couldn't find a book from his wish list[]
+15:49:04.857 [Thread-124] INFO  BookRecords - Patron5 returned The Hunger Games to the library on day 24
+15:49:04.857 [Thread-124] INFO  BookRecords - Patron5 couldn't find a book from his wish list[Name of the Wind]
+15:49:04.896 [Thread-135] INFO  BookRecords - Patron1 returned Name of the Wind to the library on day 27
+15:49:04.908 [Thread-141] INFO  BookRecords - Patron2 couldn't find a book from his wish list[]
+15:49:04.908 [Thread-144] INFO  BookRecords - Patron5 borrowed Name of the Wind from the library on day 28
+15:49:04.909 [Thread-143] INFO  BookRecords - Patron4 borrowed Sherlock Holmes from the library on day 28
+15:49:04.923 [Thread-146] INFO  BookRecords - Patron2 returned Harry Potter to the library on day 29
+15:49:04.960 [Thread-164] INFO  BookRecords - Patron5 returned Name of the Wind to the library on day 32
+15:49:04.974 [Thread-168] INFO  BookRecords - Patron4 returned Sherlock Holmes to the library on day 33
+15:49:04.974 [Thread-168] INFO  BookRecords - Patron4 borrowed The Hunger Games from the library on day 33
+15:49:05.002 [Thread-178] INFO  BookRecords - Patron4 borrowed Game of Thrones from the library on day 35
+15:49:05.044 [Thread-193] INFO  BookRecords - Patron4 returned The Hunger Games to the library on day 38
+15:49:05.046 [Thread-193] INFO  BookRecords - Patron4 borrowed Harry Potter from the library on day 38
+15:49:05.085 [Thread-208] INFO  BookRecords - Patron4 returned Harry Potter to the library on day 41
+15:49:05.085 [Thread-208] INFO  BookRecords - Patron4 couldn't find a book from his wish list[]
+15:49:05.099 [Thread-213] INFO  BookRecords - Patron4 couldn't find a book from his wish list[]
+15:49:05.113 [Thread-218] INFO  BookRecords - Patron4 returned Game of Thrones to the library on day 43

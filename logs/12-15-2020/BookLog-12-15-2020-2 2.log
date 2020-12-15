@@ -1,0 +1,53 @@
+10:25:02.503 [Thread-0] INFO  BookRecords - Patron1 borrowed Game of Thrones from the library
+10:25:02.503 [Thread-3] INFO  BookRecords - Patron4 borrowed The Hunger Games from the library
+10:25:02.503 [Thread-1] INFO  BookRecords - Patron2 borrowed Sherlock Holmes from the library
+10:25:02.512 [Thread-2] INFO  BookRecords - Patron3 borrowed Name of the Wind from the library
+10:25:02.519 [Thread-1] INFO  BookRecords - Patron2 returned Sherlock Holmes to the library
+10:25:02.525 [Thread-4] INFO  BookRecords - Patron5 borrowed Harry Potter from the library
+10:25:02.529 [Thread-3] INFO  BookRecords - Patron4 returned The Hunger Games to the library
+10:25:02.537 [Thread-4] INFO  BookRecords - Patron5 returned Harry Potter to the library
+10:25:02.554 [Thread-0] INFO  BookRecords - Patron1 returned Game of Thrones to the library
+10:25:02.555 [Thread-1] INFO  BookRecords - Patron2 borrowed The Hunger Games from the library
+10:25:02.559 [Thread-4] INFO  BookRecords - Patron5 borrowed Sherlock Holmes from the library
+10:25:02.567 [Thread-0] INFO  BookRecords - Patron1 borrowed Harry Potter from the library
+10:25:02.567 [Thread-1] INFO  BookRecords - Patron2 returned The Hunger Games to the library
+10:25:02.579 [Thread-3] INFO  BookRecords - Patron4 borrowed Game of Thrones from the library
+10:25:02.579 [Thread-0] INFO  BookRecords - Patron1 returned Harry Potter to the library
+10:25:02.580 [Thread-1] INFO  BookRecords - Patron2 borrowed Harry Potter from the library
+10:25:02.584 [Thread-2] INFO  BookRecords - Patron3 returned Name of the Wind to the library
+10:25:02.584 [Thread-4] INFO  BookRecords - Patron5 returned Sherlock Holmes to the library
+10:25:02.591 [Thread-0] INFO  BookRecords - Patron1 borrowed The Hunger Games from the library
+10:25:02.591 [Thread-3] INFO  BookRecords - Patron4 returned Game of Thrones to the library
+10:25:02.597 [Thread-2] INFO  BookRecords - Patron3 borrowed Sherlock Holmes from the library
+10:25:02.597 [Thread-4] INFO  BookRecords - Patron5 borrowed Name of the Wind from the library
+10:25:02.604 [Thread-3] INFO  BookRecords - Patron4 couldn't find a book from his wishlist[Sherlock Holmes, Harry Potter, Name of the Wind]
+10:25:02.604 [Thread-0] INFO  BookRecords - Patron1 returned The Hunger Games to the library
+10:25:02.608 [Thread-4] INFO  BookRecords - Patron5 returned Name of the Wind to the library
+10:25:02.609 [Thread-2] INFO  BookRecords - Patron3 returned Sherlock Holmes to the library
+10:25:02.615 [Thread-1] INFO  BookRecords - Patron2 returned Harry Potter to the library
+10:25:02.615 [Thread-3] INFO  BookRecords - Patron4 borrowed Sherlock Holmes from the library
+10:25:02.628 [Thread-1] INFO  BookRecords - Patron2 borrowed Name of the Wind from the library
+10:25:02.628 [Thread-0] INFO  BookRecords - Patron1 couldn't find a book from his wishlist[Name of the Wind, Sherlock Holmes]
+10:25:02.633 [Thread-4] INFO  BookRecords - Patron5 borrowed The Hunger Games from the library
+10:25:02.639 [Thread-1] INFO  BookRecords - Patron2 returned Name of the Wind to the library
+10:25:02.639 [Thread-0] INFO  BookRecords - Patron1 couldn't find a book from his wishlist[Name of the Wind, Sherlock Holmes]
+10:25:02.644 [Thread-4] INFO  BookRecords - Patron5 returned The Hunger Games to the library
+10:25:02.655 [Thread-2] INFO  BookRecords - Patron3 borrowed Harry Potter from the library
+10:25:02.662 [Thread-3] INFO  BookRecords - Patron4 returned Sherlock Holmes to the library
+10:25:02.668 [Thread-2] INFO  BookRecords - Patron3 returned Harry Potter to the library
+10:25:02.673 [Thread-0] INFO  BookRecords - Patron1 borrowed Name of the Wind from the library
+10:25:02.673 [Thread-3] INFO  BookRecords - Patron4 borrowed Harry Potter from the library
+10:25:02.673 [Thread-1] INFO  BookRecords - Patron2 borrowed Game of Thrones from the library
+10:25:02.678 [Thread-2] INFO  BookRecords - Patron3 borrowed The Hunger Games from the library
+10:25:02.683 [Thread-1] INFO  BookRecords - Patron2 returned Game of Thrones to the library
+10:25:02.683 [Thread-3] INFO  BookRecords - Patron4 returned Harry Potter to the library
+10:25:02.688 [Thread-4] INFO  BookRecords - Patron5 borrowed Game of Thrones from the library
+10:25:02.694 [Thread-0] INFO  BookRecords - Patron1 returned Name of the Wind to the library
+10:25:02.702 [Thread-4] INFO  BookRecords - Patron5 returned Game of Thrones to the library
+10:25:02.707 [Thread-0] INFO  BookRecords - Patron1 borrowed Sherlock Holmes from the library
+10:25:02.716 [Thread-3] INFO  BookRecords - Patron4 borrowed Name of the Wind from the library
+10:25:02.720 [Thread-0] INFO  BookRecords - Patron1 returned Sherlock Holmes to the library
+10:25:02.725 [Thread-2] INFO  BookRecords - Patron3 returned The Hunger Games to the library
+10:25:02.728 [Thread-3] INFO  BookRecords - Patron4 returned Name of the Wind to the library
+10:25:02.736 [Thread-2] INFO  BookRecords - Patron3 borrowed Game of Thrones from the library
+10:25:02.749 [Thread-2] INFO  BookRecords - Patron3 returned Game of Thrones to the library
